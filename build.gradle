@@ -38,6 +38,9 @@ dependencies {
     implementation "commons-dbcp:commons-dbcp:1.4"
     implementation "org.springframework:spring-orm:3.2.3.RELEASE"
     implementation "org.hibernate:hibernate-core:3.6.10.Final"
+    implementation 'com.github.davidrobbo:bounce:0.0.2'
+    implementation 'io.leopard.boot:leopard-boot-requestmapping:0.9.20'
+    implementation 'org.bitbucket.omargameelsalem:T4Spring:1.0'
 
 }
 
